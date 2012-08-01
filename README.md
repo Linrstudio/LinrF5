@@ -7,3 +7,6 @@ https://github.com/Linrstudio/LinrF5/downloads
 
 ### ¸ü¶à½éÉÜ
 http://xiaogezi.cn/app/LinrF5.html
+
+### ·´À¡
+http://t.qq.com/linrstudio
