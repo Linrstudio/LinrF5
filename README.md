@@ -1,12 +1,15 @@
 # LinrF5
-Ò»¿î×Ô¶¯Ë¢ÐÂä¯ÀÀÆ÷µÄÐ¡¹¤¾ß£¬ËüÍ¨¹ý¼àÌýÓÃ»§µÄ°´¼ü£¬Èç¹û Ctrl+S ±»°´ÏÂ£¬Ôò×Ô¶¯ÎªÄúË¢ÐÂä¯ÀÀÆ÷£¬ÎÞÐèÄúÔÙ´Î°´ÏÂ F5 ¼ü£¬Ìá¸ß¿ª·¢Ð§ÂÊ¡£
-Èç¹ûÄúÖ®Ç°ÓÐÊ¹ÓÃ¹ý SuperApp£¬ÄúÓ¦¸Ã¶ÔÕâ¸ö¹¦ÄÜºÜÊìÏ¤£¬ÏÖÔÚÎÒ°ÑÕâ¸ö¹¦ÄÜµ¥¶ÀÌáÆð³öÀ´¸ø´ó¼ÒÊ¹ÓÃ£¬Ï£ÍûÄúÏ²»¶ ^^*
+ä¸€æ¬¾è‡ªåŠ¨åˆ·æ–°æµè§ˆå™¨çš„å°å·¥å…·ï¼Œå®ƒé€šè¿‡ç›‘å¬ç”¨æˆ·çš„æŒ‰é”®ï¼Œå¦‚æžœ Ctrl+S è¢«æŒ‰ä¸‹ï¼Œåˆ™è‡ªåŠ¨ä¸ºæ‚¨åˆ·æ–°æµè§ˆå™¨ï¼Œæ— éœ€æ‚¨å†æ¬¡æŒ‰ä¸‹ F5 é”®ï¼Œæé«˜å¼€å‘æ•ˆçŽ‡ã€‚
+å¦‚æžœæ‚¨ä¹‹å‰æœ‰ä½¿ç”¨è¿‡ SuperAppï¼Œæ‚¨åº”è¯¥å¯¹è¿™ä¸ªåŠŸèƒ½å¾ˆç†Ÿæ‚‰ï¼ŒçŽ°åœ¨æˆ‘æŠŠè¿™ä¸ªåŠŸèƒ½å•ç‹¬æèµ·å‡ºæ¥ç»™å¤§å®¶ä½¿ç”¨ï¼Œå¸Œæœ›æ‚¨å–œæ¬¢ ^^*
 
-### ÏÂÔØ
+### ä¸‹è½½
 https://github.com/Linrstudio/LinrF5/downloads
 
-### ¸ü¶à½éÉÜ
+### è§†é¢‘æ¼”ç¤º
+http://www.tudou.com/programs/view/argbVz-Uwxo/
+
+### æ›´å¤šä»‹ç»
 http://xiaogezi.cn/app/LinrF5.html
 
-### ·´À¡
+### åé¦ˆ
 http://t.qq.com/linrstudio
