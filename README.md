@@ -4,7 +4,7 @@
 
 ### 下载(2014.3.15)
 
-[Download](https://github.com/Linrstudio/LinrF5/raw/master/download/LinrF5-2.0.3.zip 'Download') 下载
+[Download](https://github.com/Linrstudio/LinrF5/raw/master/download/LinrF5-2.0.5.zip 'Download') 下载
 
 或 https://skydrive.live.com/redir?resid=C0BACD534EC9E6A7!9140
 
